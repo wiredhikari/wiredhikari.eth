@@ -1,0 +1,15 @@
+baseURL = "https://wiredhikari.eth/"
+languageCode = "en-us"
+canonifyurls = true
+relativeURLs = true
+googleAnalytics = "UA-346860966-1"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+title = "Hikari's hideout"
+name = "Wiredhikari's Blog"
+description = "Just another blog page "
+
+[markup.goldmark.renderer]
+unsafe = true
