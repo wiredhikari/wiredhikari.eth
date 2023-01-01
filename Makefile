@@ -1,5 +1,5 @@
 
-domain="juan.benet.ai"
+domain="atharva.io"
 
 build: deps
 	hugo

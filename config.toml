@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 
 title = "Hikari's hideout"
 name = "Wiredhikari's Blog"
-description = "Just another blog page "
+description = "Just another blog site "
 
 [markup.goldmark.renderer]
 unsafe = true

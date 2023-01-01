@@ -12,14 +12,17 @@ layout: "single"
 
 ## Projects
 
-- 2018 &raquo; 
+
+- 
+- 2020 &raquo; tuxfetch
 
 
 ## Talks, Interviews, and other Media
 
-I will make an index of all my talks soon.
+I will make an index of all my projects soon.
 
 In the mean time, you can check out:
 
 - [my tweets](https://twitter.com/wired_hikari)
-
+- [my github](https://github.com/wiredhikari)
+- [my blogs](https://atharva.io/blog)

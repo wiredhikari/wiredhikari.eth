@@ -6,4 +6,4 @@ notoc: true
 
 # wiredhikari's Blog
 
-This is my blog, yo.
+Welcome to my blog
