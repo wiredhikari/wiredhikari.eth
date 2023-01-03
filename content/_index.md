@@ -11,9 +11,11 @@ layout: "single"
 - Stay a while, and take a look around.
 
 ## Projects
-
-
-- 
+- 2022 &raquo; 
+- 2022 &raquo; 
+- 2021 &raquo; 
+- 2021 &raquo; 
+- 2021 &raquo; 
 - 2020 &raquo; tuxfetch
 
 
